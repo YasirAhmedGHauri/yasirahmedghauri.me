@@ -1,0 +1,171 @@
+
+---Downloaded files---
+The import files for: Elito were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/yasirahmedghauri.me
+Data file = C:\xampp\htdocs\yasirahmedghauri.me/wp-content/uploads/2023/03/demo-content-import-file_2023-03-23__21-18-12.xml
+Widget file = C:\xampp\htdocs\yasirahmedghauri.me/wp-content/uploads/2023/03/demo-widgets-import-file_2023-03-23__21-18-12.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Interior
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Portfolio
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "photoshop" (Media)
+[ERROR] Failed to import "illustrator" (Media)
+[ERROR] Failed to import "diamond" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Interior
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Portfolio
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "photoshop" (Media)
+[ERROR] Failed to import "illustrator" (Media)
+[ERROR] Failed to import "diamond" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Interior
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Portfolio
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "photoshop" (Media)
+[ERROR] Failed to import "illustrator" (Media)
+[ERROR] Failed to import "diamond" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Interior
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Portfolio
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "photoshop" (Media)
+[ERROR] Failed to import "illustrator" (Media)
+[ERROR] Failed to import "diamond" (Media)
+[ERROR] Failed to import "logo" (Media)
+[WARNING] Failed to import "subscribe-form": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Interior
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Portfolio
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "photoshop" (Media)
+[ERROR] Failed to import "illustrator" (Media)
+[ERROR] Failed to import "diamond" (Media)
+[ERROR] Failed to import "logo" (Media)
+[WARNING] Failed to import "subscribe-form": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Main Widget Area : 
+
+Elito: Text Widget - No Title - Imported
+Search - Search - Imported
+Categories - Categories - Imported
+Elito: Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+Footer Widget 1 : 
+
+Elito: Text Widget - No Title - Imported
+
+Footer Widget 2 : 
+
+Elito: Navigation - Navigation - Imported
+
+Footer Widget 3 : 
+
+Elito: Navigation - All Services - Imported
+
+Footer Widget 4 : 
+
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+service-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - Search - Imported to Inactive
+Elito: Navigation - No Title - Imported to Inactive
+Elito: Text Widget - No Title - Imported to Inactive
+
+
+
+---ocdi/after_import---
+
